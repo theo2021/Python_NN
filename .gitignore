@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+tests/ipynb_checkpoints/
+python_nn/.ipynb_checkpoints
+python_nn/__pycache__/
+python_nn/functions/__pycache__
+python_nn/layers/__pycache__
