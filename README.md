@@ -14,4 +14,7 @@ $ pip install git+https://github.com/theo2021/Python_NN.git
 A simple jupyter example can be found [here](https://github.com/theo2021/Python_NN/blob/master/tests/python_nn%20simple%20example.ipynb)
 There are plenty more options, more examples will be coming.
 
+
+The code was developed during the course [Deep Learning in Data Science](https://www.kth.se/student/kurser/kurs/DD2424).
+
 Please send me a feedback about the project in theo2021@gmail.com .
