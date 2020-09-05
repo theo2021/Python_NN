@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='python_nn',
@@ -9,5 +9,6 @@ setup(
     author_email='theo2021@gmail.com',
     license='unlicense',
     packages=['python_nn'],
-    zip_safe=False
+    zip_safe=False,
+    packages=find_packages()
 )
