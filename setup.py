@@ -8,7 +8,6 @@ setup(
     author='theodoros Panagiotakopoulos',
     author_email='theo2021@gmail.com',
     license='unlicense',
-    packages=['python_nn'],
     zip_safe=False,
     packages=find_packages()
 )
