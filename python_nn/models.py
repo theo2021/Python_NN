@@ -1,7 +1,7 @@
 import numpy as np
 #from python_nn.layers import *
-from functions.loss_functions import los_handler, reg_handler
-from functions.activation_functions import activation_handler
+from .functions.loss_functions import los_handler, reg_handler
+from .functions.activation_functions import activation_handler
 from .optimizers import *
 from .initializers import *
 #from tqdm import tqdm

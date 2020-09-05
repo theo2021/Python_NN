@@ -6,6 +6,6 @@ Created on Wed May 27 19:34:30 2020
 """
 
 
-from . import dense
-from . import convolution
+from dense import Dense
+from convolution import ConvLayer1D
 
