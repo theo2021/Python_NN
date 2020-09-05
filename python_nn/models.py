@@ -4,7 +4,7 @@ from .functions.loss_functions import los_handler, reg_handler
 from .functions.activation_functions import activation_handler
 from .optimizers import *
 from .initializers import *
-from tqdm import tqdm
+#from tqdm import tqdm
 
 def onehot2char(val_array, dictionary):
     char_arr = np.array(list(dictionary.keys()))[np.argmax(val_array, axis=1)]
